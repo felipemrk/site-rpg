@@ -61,3 +61,7 @@ form button {
     cursor: pointer;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+
+#char-output {
+    margin-top: 20px;
+}
